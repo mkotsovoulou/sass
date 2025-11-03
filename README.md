@@ -5,16 +5,17 @@
 
 ## 📚 **Table of Contents**
 
-1. [👩‍🎓 Student](#-student)  
-2. [👩‍🏫 Facilitator](#-facilitator)  
-3. [👩‍💼 Secretary](#-secretary)  
-4. [👩‍💻 Administrator](#-administrator)  
-5. [💡 System-Wide Features](#-system-wide-features)  
-6. [🧭 Example Scenario](#-example-scenario)  
-7. [📊 Reporting and Statistics](#-reporting-and-statistics)  
+1. [👩‍🎓 Student](#student)  
+2. [👩‍🏫 Facilitator](#facilitator)  
+3. [👩‍💼 Secretary](#secretary)  
+4. [👩‍💻 Administrator](#administrator)  
+5. [💡 System-Wide Features](#system-wide-features)  
+6. [🧭 Example Scenario](#example-scenario)  
+7. [📊 Reporting and Statistics](#reporting-and-statistics)  
 
 ---
 
+<a id="student"></a>
 ## 👩‍🎓 **Student**
 
 Students use the system to find academic help sessions offered by facilitators for specific courses.
@@ -50,6 +51,7 @@ Students use the system to find academic help sessions offered by facilitators f
 
 ---
 
+<a id="facilitator"></a>
 ## 👩‍🏫 **Facilitator**
 
 Facilitators are the staff members who provide academic support to students.
@@ -73,6 +75,7 @@ Facilitators are the staff members who provide academic support to students.
 
 ---
 
+<a id="secretary"></a>
 ## 👩‍💼 **Secretary**
 
 The secretary manages daily operations, ensuring smooth scheduling for all facilitators and students.
@@ -95,6 +98,7 @@ The secretary manages daily operations, ensuring smooth scheduling for all facil
 
 ---
 
+<a id="administrator"></a>
 ## 👩‍💻 **Administrator**
 
 The administrator configures the system, manages users and semesters, and ensures proper data structure.
@@ -127,6 +131,7 @@ The administrator configures the system, manages users and semesters, and ensure
 
 ---
 
+<a id="system-wide-features"></a>
 ## 💡 **System-Wide Features**
 
 * **Automatic email notifications**  
@@ -160,6 +165,7 @@ The administrator configures the system, manages users and semesters, and ensure
 
 ---
 
+<a id="example-scenario"></a>
 ## 🧭 **Example Scenario**
 
 1. **Student Login**  
@@ -181,6 +187,7 @@ The administrator configures the system, manages users and semesters, and ensure
 
 ---
 
+<a id="reporting-and-statistics"></a>
 ## 📊 **Reporting and Statistics**
 
 At the end of each semester, the system provides reports and dashboards to help evaluate performance.
