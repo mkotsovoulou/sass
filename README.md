@@ -24,6 +24,10 @@ Students use the system to find academic help sessions offered by facilitators f
 
 * **Log in using college credentials (LDAP)**.  
   During development, they can use a simple test login (username = password).
+  When a "new" user logs in for the first time a new user is created in the sass_users table with the role 'STUDENT'
+  the user should complete their profile by filling in all the required info such as: lastname and mobile phone.
+  The "SECRETARY" receives an email to assign the necessary ROLES to the new user. If for example the user will act as a faciliator, the "ADMIN" should modify the user's role.
+  The administrator can modify the user role.
 
 * **View available courses** that offer facilitator support.  
   Each course lists the facilitators who teach or support it.
